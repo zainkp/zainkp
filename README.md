@@ -1,148 +1,66 @@
-<!-- ==================== HEADER ==================== -->
+👋 Hey there, I'm Muhammed Zain K P
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=064E3B,10B981&height=200&section=header&text=Muhammed+Zain+K+P&fontSize=42&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF"
-    alt="Emerald green animated header for Muhammed Zain K P"
-    width="100%"
-  />
-</p>
+🚀 CSE (IoT) Student | Web3 Enthusiast | Developer
 
-<!-- ==================== INTRO ==================== -->
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=34D399&center=true&vCenter=true&width=600&lines=CSE+%28IoT%29+Student;Blockchain+%26+Web3+Builder;AI%2FML+Intern"
-    alt="CSE IoT student, Blockchain and Web3 builder, and AI/ML intern"
-  />
-</p>
+I enjoy exploring new technologies and building projects in Blockchain, Web3, AI, and software development.
 
 ---
 
-## About Me
+🌟 About Me
 
-**Muhammed Zain K P**, B.E. CSE (IoT) student building projects in Web3, AI, and automation.
+- 🎓 B.E. Computer Science and Engineering (IoT) student
+- 🤖 Previously worked as an AI/ML Intern
+- 🔗 Interested in Blockchain, Web3, and decentralized applications
+- 💻 Building projects and continuously learning new technologies
 
-- 🎓 Studying B.E. in Computer Science and Engineering (IoT).
-- 🌱 Currently learning Machine Learning and exploring Blockchain technology.
-- 🔗 Interested in Blockchain, Web3, and decentralized applications.
-- 🛠️ Building projects to gain practical experience and improve my skills.
-- 🔍 Always curious about new technologies, tools, and ideas.
+---
 
-## Currently Exploring
-
-- **Blockchain & Web3** — Understanding decentralized systems and exploring how decentralized applications are built.
-- **Machine Learning** — Developing my understanding of machine learning concepts and applications.
-- **Software Development** — Strengthening my programming skills through hands-on projects.
-- **Automation** — Exploring workflow automation and tools such as n8n.
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="Programming languages and web technologies: C, Python, HTML, and CSS" />
-</p>
-
-### Development Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,firebase,git,github,vscode" alt="Development tools and technologies: React, TypeScript, Tailwind CSS, Firebase, Git, GitHub, and VS Code" />
-</p>
-
-Tools I use regularly, with more being added as I learn.
-
-## Featured Projects
-
-### VOUCH
-
-**Your Work. Vouched For.**
-
-A web platform that helps skilled workers showcase their experience and build a portable professional identity.
-
-- Focus: Helping skilled workers present their professional experience.
-- Technologies: React, TypeScript, Tailwind CSS, and Firebase-related tools.
-- Project type: Hackathon project.
-
-[Explore VOUCH on GitHub](https://github.com/zainkp/VOUCH)
-
-### ClearMind
-
-An AI-focused application designed to support neurodivergent students, including students with ADHD, dyslexia, and autism.
-
-- Focus: Supporting neurodivergent students through technology-assisted learning.
-- Technologies explored: React, TypeScript, Tailwind CSS, Firebase, and generative AI APIs.
-- Project type: AI/ML hackathon project.
-
-[Explore ClearMind on GitHub](https://github.com/zainkp/clearmind)
-
-### LuxeNest
-
-A modern furniture website built with a focus on elegant design, responsive layouts, and smooth animations.
-
-- Focus: Presenting furniture through a modern, interactive web experience.
-- Technologies: React 19, Vite, TypeScript, Tailwind CSS, and Framer Motion.
-
-[Explore LuxeNest on GitHub](https://github.com/zainkp/LuxeNest)
-
-### Flask Notes App
-
-A notes application built with Flask, exploring the fundamentals of web application development.
-
-- Focus: Creating a notes application with Flask.
-- Technology: Python and Flask.
-
-[Explore Flask Notes App on GitHub](https://github.com/zainkp/flask-notes-app)
-
-## Hackathons & Events
-
-**Automathon — Malnad College of Engineering, Hassan**
-
-Participated in an automation-focused event in December 2025, working with n8n-related concepts.
-
-**PAETRIX — P.A. College of Engineering**
-
-Participated in the hackathon conducted in April 2026.
-
-**HACKATHOPIA 2K26 — Yenepoya Institute of Technology**
-
-Participated in the hackathon organized by the Department of Computer Science and Engineering.
-
-## GitHub Statistics
+🛠️ Tech Stack
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zainkp&show_icons=true&theme=merko&hide_border=true"
-    alt="GitHub statistics for zainkp"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkp&layout=compact&theme=merko&hide_border=true"
-    alt="Most frequently used programming languages in zainkp's public repositories"
-    height="165"
-  />
-</p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p><p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,flask,git,github,vscode"/>
+</p>---
+
+🚀 Featured Projects
+
+- 🔗 "VOUCH" (https://github.com/zainkp/VOUCH) — Professional identity platform for skilled workers.
+- 🧠 "ClearMind" (https://github.com/zainkp/clearmind) — AI-focused application for neurodivergent students.
+- 🛋️ "LuxeNest" (https://github.com/zainkp/LuxeNest) — Modern and interactive furniture website.
+- 📝 "Flask Notes App" (https://github.com/zainkp/flask-notes-app) — Simple notes application built with Flask.
+
+---
+
+📊 GitHub Stats
 
 <p align="center">
-  <sub>Statistics are generated by a third-party service and may occasionally be unavailable or rate-limited.</sub>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zainkp&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainkp&theme=tokyonight" alt="GitHub Streak"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkp&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+</p>---
 
-## Let's Connect
-
-Open to collaborating on Web3, AI, and IoT projects.
+📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-zain-k-p">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-064E3B?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="Connect with me on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  <a href="mailto:zainkp777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>---
 
-<!-- ==================== FOOTER ==================== -->
+✨ "Stay curious. Keep building. Never stop learning."
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=064E3B,10B981&height=120&section=footer"
-    alt="Emerald green decorative footer"
-    width="100%"
-  />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zainkp/zainkp/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</div>
