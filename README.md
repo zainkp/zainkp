@@ -1,16 +1,148 @@
-## Hi there 👋
+<!-- ==================== HEADER ==================== -->
 
-<!--
-**zainkp/zainkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=064E3B,10B981&height=200&section=header&text=Muhammed+Zain+K+P&fontSize=42&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF"
+    alt="Emerald green animated header for Muhammed Zain K P"
+    width="100%"
+  />
+</p>
 
-Here are some ideas to get you started:
+<!-- ==================== INTRO ==================== -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=34D399&center=true&vCenter=true&width=600&lines=CSE+%28IoT%29+Student;Blockchain+%26+Web3+Builder;AI%2FML+Intern"
+    alt="CSE IoT student, Blockchain and Web3 builder, and AI/ML intern"
+  />
+</p>
+
+---
+
+## About Me
+
+**Muhammed Zain K P**, B.E. CSE (IoT) student building projects in Web3, AI, and automation.
+
+- 🎓 Studying B.E. in Computer Science and Engineering (IoT).
+- 🌱 Currently learning Machine Learning and exploring Blockchain technology.
+- 🔗 Interested in Blockchain, Web3, and decentralized applications.
+- 🛠️ Building projects to gain practical experience and improve my skills.
+- 🔍 Always curious about new technologies, tools, and ideas.
+
+## Currently Exploring
+
+- **Blockchain & Web3** — Understanding decentralized systems and exploring how decentralized applications are built.
+- **Machine Learning** — Developing my understanding of machine learning concepts and applications.
+- **Software Development** — Strengthening my programming skills through hands-on projects.
+- **Automation** — Exploring workflow automation and tools such as n8n.
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,html,css" alt="Programming languages and web technologies: C, Python, HTML, and CSS" />
+</p>
+
+### Development Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,firebase,git,github,vscode" alt="Development tools and technologies: React, TypeScript, Tailwind CSS, Firebase, Git, GitHub, and VS Code" />
+</p>
+
+Tools I use regularly, with more being added as I learn.
+
+## Featured Projects
+
+### VOUCH
+
+**Your Work. Vouched For.**
+
+A web platform that helps skilled workers showcase their experience and build a portable professional identity.
+
+- Focus: Helping skilled workers present their professional experience.
+- Technologies: React, TypeScript, Tailwind CSS, and Firebase-related tools.
+- Project type: Hackathon project.
+
+[Explore VOUCH on GitHub](https://github.com/zainkp/VOUCH)
+
+### ClearMind
+
+An AI-focused application designed to support neurodivergent students, including students with ADHD, dyslexia, and autism.
+
+- Focus: Supporting neurodivergent students through technology-assisted learning.
+- Technologies explored: React, TypeScript, Tailwind CSS, Firebase, and generative AI APIs.
+- Project type: AI/ML hackathon project.
+
+[Explore ClearMind on GitHub](https://github.com/zainkp/clearmind)
+
+### LuxeNest
+
+A modern furniture website built with a focus on elegant design, responsive layouts, and smooth animations.
+
+- Focus: Presenting furniture through a modern, interactive web experience.
+- Technologies: React 19, Vite, TypeScript, Tailwind CSS, and Framer Motion.
+
+[Explore LuxeNest on GitHub](https://github.com/zainkp/LuxeNest)
+
+### Flask Notes App
+
+A notes application built with Flask, exploring the fundamentals of web application development.
+
+- Focus: Creating a notes application with Flask.
+- Technology: Python and Flask.
+
+[Explore Flask Notes App on GitHub](https://github.com/zainkp/flask-notes-app)
+
+## Hackathons & Events
+
+**Automathon — Malnad College of Engineering, Hassan**
+
+Participated in an automation-focused event in December 2025, working with n8n-related concepts.
+
+**PAETRIX — P.A. College of Engineering**
+
+Participated in the hackathon conducted in April 2026.
+
+**HACKATHOPIA 2K26 — Yenepoya Institute of Technology**
+
+Participated in the hackathon organized by the Department of Computer Science and Engineering.
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zainkp&show_icons=true&theme=merko&hide_border=true"
+    alt="GitHub statistics for zainkp"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainkp&layout=compact&theme=merko&hide_border=true"
+    alt="Most frequently used programming languages in zainkp's public repositories"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <sub>Statistics are generated by a third-party service and may occasionally be unavailable or rate-limited.</sub>
+</p>
+
+## Let's Connect
+
+Open to collaborating on Web3, AI, and IoT projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-zain-k-p">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-064E3B?style=for-the-badge&logo=linkedin&logoColor=34D399" alt="Connect with me on LinkedIn" />
+  </a>
+</p>
+
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=064E3B,10B981&height=120&section=footer"
+    alt="Emerald green decorative footer"
+    width="100%"
+  />
+</p>
